@@ -1,7 +1,8 @@
-# Olá, eu sou o Júlio Costa!
+# Olá, eu sou o Júlio Costa
 
 ## 👨‍💼 Sobre Mim
-Sou um entusiasta da tecnologia, nascido e criado em Porto Alegre, Rio Grande do Sul. Como pai do Henrique e marido dedicado, encontro inspiração na harmonia entre minha vida pessoal e profissional.
+Sou um entusiasta da tecnologia, nascido e criado em Porto Alegre, Rio Grande do Sul. Sou pai do Henrique, e marido dedicado da Amanda. 
+Encontro inspiração na harmonia entre minha vida pessoal e profissional.
 
 ## 🎓 Formação Acadêmica
 Tenho uma formação diversificada e profunda em áreas que cruzam a tecnologia com o espaço geográfico. Sou formado em **Engenharia Cartográfica e de Agrimensura** e em **Análise e Desenvolvimento de Sistemas**, complementadas por uma Pós-Graduação em **Ciências de Dados**.
